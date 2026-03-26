@@ -1,46 +1,54 @@
-## 👋 About Me  
+# 👋 Hi, I'm Tej  
 
-I am an aspiring **Data Analyst / MIS Analyst** with a strong passion for transforming raw data into meaningful insights that support business decision-making. I specialize in analyzing data, creating interactive dashboards, and generating MIS reports that help organizations track performance and improve efficiency.
+🎯 **Data Analyst | MIS Analyst | Excel Dashboard Specialist**  
 
-I have hands-on experience in **Microsoft Excel (Advanced)**, where I build dynamic dashboards using Pivot Tables, charts, slicers, and formulas. I also have working knowledge of **SQL and Power BI** for data extraction, transformation, and visualization.
+I’m passionate about transforming raw data into meaningful insights that drive smart business decisions. With a strong foundation in **MIS reporting, data analysis, and dashboard creation**, I focus on solving real-world business problems using data.
 
 ---
 
-## 💼 What I Do  
-
-- 📊 Create interactive dashboards and reports  
-- 📈 Analyze business data to identify trends and patterns  
-- 📌 Prepare MIS reports for performance tracking  
-- 🧹 Clean and transform raw data into structured formats  
-- 🎯 Support data-driven decision making  
+## 🚀 What I Do  
+- 📊 Create interactive dashboards using **Excel & Power BI**  
+- 📈 Analyze customer and business data to identify trends & insights  
+- 🧾 Develop MIS reports for performance tracking and decision-making  
+- 🔍 Perform data cleaning, transformation, and validation  
+- 💡 Support businesses with data-driven strategies  
 
 ---
 
 ## 🛠️ Skills & Tools  
-
-- **Excel (Advanced)** – Pivot Tables, VLOOKUP, INDEX-MATCH, What-If Analysis  
-- **SQL** – Data querying and data extraction  
-- **Power BI** – Data visualization and dashboard creation  
-- **Data Analysis** – EDA, trend analysis, KPI tracking  
+- **Excel (Advanced)** – Pivot Tables, Charts, What-If Analysis, Dashboards  
+- **SQL** – Data extraction and querying  
+- **Power BI** – Data visualization and reporting  
+- **Data Analysis** – EDA, KPI tracking, trend analysis  
+- **MIS Reporting** – Daily, Weekly, Monthly reports  
 
 ---
 
 ## 📂 Featured Project  
-
 ### 📊 Customer Feedback Analysis (Excel Dashboard)  
 - Built an interactive dashboard to analyze customer feedback  
-- Identified customer satisfaction trends and sentiment distribution  
-- Highlighted low-performing service areas for improvement  
-- Used slicers for dynamic filtering (Product, Department)  
+- Identified satisfaction trends and low-performing areas  
+- Used slicers for dynamic filtering (Department, Product)  
+- Delivered actionable insights to improve service quality  
+
+---
+
+## 📈 Currently Learning  
+- Advanced SQL & Data Modeling  
+- Power BI (DAX & Advanced Visuals)  
+- Python for Data Analysis  
 
 ---
 
 ## 🎯 Career Goal  
-
-To grow as a **Data Analyst / MIS Analyst** by leveraging data to solve real-world business problems and contribute to organizational success.
+To grow as a **Data Analyst / MIS Analyst** and contribute to organizations by delivering impactful insights and efficient reporting systems.
 
 ---
 
-## 📫 Let's Connect  
+## 🤝 Let's Connect  
+- 💼 Open to Data Analyst / MIS Analyst opportunities  
+- 📬 Always ready to learn, collaborate, and grow  
 
-I am open to opportunities and collaborations in Data Analysis and MIS Reporting.  
+---
+
+⭐ *“Without data, you're just another person with an opinion.”*  
