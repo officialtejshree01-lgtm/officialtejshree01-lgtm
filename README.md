@@ -58,4 +58,3 @@ With a strong foundation in Excel-based analytics and MIS reporting, I focus on 
 ---
 
 ⭐ *"Turning data into insights, and insights into decisions."*  
-⭐ *“Without data, you're just another person with an opinion.”*  
