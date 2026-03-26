@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tej  
+# 👋 Hi, I'm Tejshree  
 
 🎯 **Data Analyst | MIS Analyst | Excel Dashboard Specialist**  
 
