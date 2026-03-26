@@ -1,54 +1,61 @@
-# 👋 Hi, I'm Tejshree  
+# 👋 Hi, I'm Tej  
 
-🎯 **Data Analyst | MIS Analyst | Excel Dashboard Specialist**  
-
-I’m passionate about transforming raw data into meaningful insights that drive smart business decisions. With a strong foundation in **MIS reporting, data analysis, and dashboard creation**, I focus on solving real-world business problems using data.
-
----
-
-## 🚀 What I Do  
-- 📊 Create interactive dashboards using **Excel & Power BI**  
-- 📈 Analyze customer and business data to identify trends & insights  
-- 🧾 Develop MIS reports for performance tracking and decision-making  
-- 🔍 Perform data cleaning, transformation, and validation  
-- 💡 Support businesses with data-driven strategies  
+📊 **Data Analyst | MIS Analyst**  
+I specialize in transforming raw data into meaningful insights that drive smarter business decisions.  
+With a strong foundation in Excel-based analytics and MIS reporting, I focus on building interactive dashboards, tracking KPIs, and delivering clear, actionable reports.
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Excel (Advanced)** – Pivot Tables, Charts, What-If Analysis, Dashboards  
-- **SQL** – Data extraction and querying  
-- **Power BI** – Data visualization and reporting  
-- **Data Analysis** – EDA, KPI tracking, trend analysis  
-- **MIS Reporting** – Daily, Weekly, Monthly reports  
+## 🚀 About Me  
+- 📈 Skilled in **Excel (Advanced), SQL, Power BI**  
+- 📊 Experienced in **MIS Reporting & Dashboard Development**  
+- 🔍 Strong in **Data Cleaning, Analysis & Visualization**  
+- 🎯 Focused on **data-driven decision making**  
+- 💡 Passionate about solving real-world business problems using data  
 
 ---
 
 ## 📂 Featured Project  
-### 📊 Customer Feedback Analysis (Excel Dashboard)  
-- Built an interactive dashboard to analyze customer feedback  
-- Identified satisfaction trends and low-performing areas  
-- Used slicers for dynamic filtering (Department, Product)  
-- Delivered actionable insights to improve service quality  
+🔗 **Customer Feedback Analysis (Excel Dashboard Project)**  
+👉 [View Project Repository](https://github.com/officialtejshree01-lgtm/officialtejshree01-lgtm/edit/main/README.md)
+
+📌 Highlights:  
+- Interactive dashboard with slicers (Department, Product)  
+- KPI tracking (Average Rating, Positive Feedback %)  
+- Sentiment analysis (Positive, Neutral, Negative)  
+- Trend analysis across products and regions  
 
 ---
 
-## 📈 Currently Learning  
+## 🛠️ Tools & Technologies  
+- 📊 Excel (Pivot Tables, Charts, What-If Analysis)  
+- 🗄️ SQL  
+- 📉 Power BI  
+- 📌 Data Visualization & Reporting  
+
+---
+
+## 📈 What I Do  
+✔️ Create interactive dashboards  
+✔️ Analyze customer & business data  
+✔️ Generate MIS reports  
+✔️ Track KPIs & performance metrics  
+✔️ Provide actionable insights  
+
+---
+
+## 🌱 Currently Learning  
 - Advanced SQL & Data Modeling  
-- Power BI (DAX & Advanced Visuals)  
+- Power BI Advanced Dashboards  
 - Python for Data Analysis  
 
 ---
 
-## 🎯 Career Goal  
-To grow as a **Data Analyst / MIS Analyst** and contribute to organizations by delivering impactful insights and efficient reporting systems.
-
----
-
-## 🤝 Let's Connect  
+## 📫 Let's Connect  
 - 💼 Open to Data Analyst / MIS Analyst opportunities  
-- 📬 Always ready to learn, collaborate, and grow  
+- 🤝 Always ready to collaborate on data projects  
 
 ---
 
+⭐ *"Turning data into insights, and insights into decisions."*  
 ⭐ *“Without data, you're just another person with an opinion.”*  
