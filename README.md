@@ -28,8 +28,7 @@ With a strong foundation in Excel-based analytics and MIS reporting, I focus on 
 ---
 
 ## 🛠️ Tools & Technologies  
-- 📊 Excel (Pivot Tables, Charts, What-If Analysis)  
-- 🗄️ SQL  
+- 📊 Excel (Pivot Tables, Charts, What-If Analysis)    
 - 📉 Power BI  
 - 📌 Data Visualization & Reporting  
 
