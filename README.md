@@ -44,14 +44,14 @@ With a strong foundation in Excel-based analytics and MIS reporting, I focus on 
 ---
 
 ## 🌱 Currently Learning  
-- SQL & Data Modeling  
 - Power BI Advanced Dashboards  
+- SQL & Data Modeling 
 - Python for Data Analysis  
 
 ---
 
 ## 📫 Let's Connect  
-- 💼 Open to Data Analyst / MIS Analyst opportunities  
+- 💼 Open to MIS Analyst / Data Analyst Intern opportunities  
 - 🤝 Always ready to collaborate on data projects  
 
 ---
