@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tej  
+# 👋 Hi, I'm Tejshree  
 
 📊 **Data Analyst | MIS Analyst**  
 I specialize in transforming raw data into meaningful insights that drive smarter business decisions.  
@@ -17,7 +17,7 @@ With a strong foundation in Excel-based analytics and MIS reporting, I focus on 
 
 ## 📂 Featured Project  
 🔗 **Customer Feedback Analysis (Excel Dashboard Project)**  
-👉 [View Project Repository](https://github.com/officialtejshree01-lgtm/officialtejshree01-lgtm/edit/main/README.md)
+👉 [View Project Repository](https://github.com/officialtejshree01-lgtm/Excels-Projects)
 
 📌 Highlights:  
 - Interactive dashboard with slicers (Department, Product)  
