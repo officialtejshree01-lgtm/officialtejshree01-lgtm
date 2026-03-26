@@ -7,7 +7,7 @@ With a strong foundation in Excel-based analytics and MIS reporting, I focus on 
 ---
 
 ## 🚀 About Me  
-- 📈 Skilled in **Excel (Advanced), SQL, Power BI**  
+- 📈 Skilled in **Excel (Advanced), Power BI**  
 - 📊 Experienced in **MIS Reporting & Dashboard Development**  
 - 🔍 Strong in **Data Cleaning, Analysis & Visualization**  
 - 🎯 Focused on **data-driven decision making**  
