@@ -77,6 +77,7 @@ To leverage my experience as an **MIS Analyst** and transition into a **Data Ana
 ---
 
 ## 🔗 Connect With Me
+- 📧 Email: official.tejshree01@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/tejshree-t  
 - 💻 GitHub: https://github.com/officialtejshree01-lgtm  
 
