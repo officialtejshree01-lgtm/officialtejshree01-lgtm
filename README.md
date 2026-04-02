@@ -1,59 +1,75 @@
-# 👋 Hi, I'm Tejshree  
+ # 👩‍💻 Hi, I'm Tejshree!
 
-📊 **Data Analyst | MIS Analyst**  
-I specialize in transforming raw data into meaningful insights that drive smarter business decisions.  
-With a strong foundation in Excel-based analytics and MIS reporting, I focus on building interactive dashboards, tracking KPIs, and delivering clear, actionable reports.
+## 📊 MIS Analyst | Data Analyst | Excel Dashboard Developer
 
 ---
 
-## 🚀 About Me  
-- 📈 Skilled in **Excel (Advanced), Power BI**  
-- 📊 Experienced in **MIS Reporting & Dashboard Development**  
-- 🔍 Strong in **Data Cleaning, Analysis & Visualization**  
-- 🎯 Focused on **data-driven decision making**  
-- 💡 Passionate about solving real-world business problems using data  
+## 🚀 About Me
+I am a detail-oriented **MIS Analyst** with a strong foundation in **data analysis, reporting, and dashboard creation**.  
+I specialize in transforming raw data into **meaningful insights** that support business decision-making.
+
+- 📊 Skilled in Excel dashboards & reporting  
+- 📈 Passionate about data visualization  
+- 🔍 Focused on accuracy, automation & insights  
+- 💡 Always learning new data tools and techniques  
 
 ---
 
-## 📂 Featured Project  
-🔗 **Customer Feedback Analysis (Excel Dashboard Project)**  
-👉 [View Project Repository](https://github.com/officialtejshree01-lgtm/Excels-Projects)
-
-📌 Highlights:  
-- Interactive dashboard with slicers (Department, Product)  
-- KPI tracking (Average Rating, Positive Feedback %)  
-- Sentiment analysis (Positive, Neutral, Negative)  
-- Trend analysis across products and regions  
+## 🛠️ Skills & Tools
+- 📊 Microsoft Excel (Advanced)
+- 📈 Pivot Tables & Charts  
+- 🔄 Power Query (Basics)  
+- 📌 Data Cleaning & Transformation  
+- 📉 Dashboard Development  
+- 🧮 Excel Formulas (IF, VLOOKUP, XLOOKUP, INDEX-MATCH)  
 
 ---
 
-## 🛠️ Tools & Technologies  
-- 📊 Excel (Pivot Tables, Charts, What-If Analysis)    
-- 📉 Power BI  
-- 📌 Data Visualization & Reporting  
+## 📂 Featured Projects
+
+### 🏦 Bank Customer Loan Tracker
+- Loan approval analysis dashboard  
+- Risk categorization using financial metrics  
+- KPI-based reporting system  
 
 ---
 
-## 📈 What I Do  
-✔️ Create interactive dashboards  
-✔️ Analyze customer & business data  
-✔️ Generate MIS reports  
-✔️ Track KPIs & performance metrics  
-✔️ Provide actionable insights  
+### 📦 Retail Store Inventory Management
+- Inventory tracking dashboard  
+- Low stock alert system  
+- Supplier & category-wise analysis  
 
 ---
 
-## 🌱 Currently Learning  
-- Power BI Advanced Dashboards  
-- SQL & Data Modeling 
-- Python for Data Analysis  
+### 😊 Customer Feedback Analysis
+- Customer satisfaction dashboard  
+- Sentiment analysis using ratings  
+- Department-wise performance insights  
 
 ---
 
-## 📫 Let's Connect  
-- 💼 Open to MIS Analyst / Data Analyst Intern opportunities  
-- 🤝 Always ready to collaborate on data projects  
+## 📊 What I Do
+- Build **interactive dashboards**  
+- Automate **reports using Excel**  
+- Analyze **business data for insights**  
+- Improve **decision-making with KPIs**  
 
 ---
 
-⭐ *"Turning data into insights, and insights into decisions."*  
+## 🌱 Currently Learning
+- Power BI  
+- SQL for Data Analysis  
+- Advanced Data Visualization  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *www.linkedin.com/in/tejshree-t*  
+- 📧 Email: *official.tejshree01@gmail.com*  
+
+---
+
+## ⭐ Fun Fact
+I enjoy turning complex datasets into simple and visually appealing dashboards 📊✨
+
+---
